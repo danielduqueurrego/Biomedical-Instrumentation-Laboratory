@@ -2,6 +2,8 @@
 
 This repository contains educational materials, hardware designs, and software tools to support open-source biomedical instrumentation labs for academic use.
 
+Create for the course BMEG-420L: Biomedical Instrumentation Laboratory, Department of Chemical and Biomedical Engineering, West Virginia University.
+
 ---
 
 ## 📂 Repository Structure
@@ -50,6 +52,8 @@ If you need to start with a brief **MATLAB introduction**, I recommend starting 
 ## 🙏 Acknowledgments
 
 Created and maintained by **Daniel Duque Urrego**, Ph.D. student in Biomedical Engineering at West Virginia University.
+
+Originally funded by the Department of Chemical and Biomedical Engineering at West Virginia University.
 
 Contact Information:
 - daniel.duqueurrego@mail.wvu.edu
