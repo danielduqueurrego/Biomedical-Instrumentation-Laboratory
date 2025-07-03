@@ -4,12 +4,13 @@ This folder contains a MATLAB App developed to support biomedical instrumentatio
 
 ## 📂 Folder Structure
 
-├─ `app/` – MATLAB App Designer `.mlapp` file and `.prj` project file.
-├─ `functions/` – Modular `.m` helper functions used by the app.
-├─ `data/` – Example `.mat` or `.csv` data for testing and demonstration.
-├─ `images/` – Icons, plots, and GUI illustrations used in the app.
-├─ `docs/` – User and developer documentation (e.g., PDFs).
-├─ `tests/` – Optional test scripts for verifying function behavior.
+	├─ `app` – MATLAB App Designer `.mlapp` file and `.prj` project file.
+	│   ├── `images` – Icons, plots, and GUI illustrations used in the app.
+	│   └── file12.ext
+	├─ `functions/` – Modular `.m` helper functions used by the app.
+	├─ `data/` – Example `.mat` or `.csv` data for testing and demonstration.
+	├─ `docs/` – User and developer documentation (e.g., PDFs).
+	└─ `tests/` – Optional test scripts for verifying function behavior.
 
 ## 🚀 Getting Started
 
