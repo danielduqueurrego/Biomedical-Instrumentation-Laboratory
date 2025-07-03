@@ -14,7 +14,7 @@ This folder contains a MATLAB App developed to support biomedical instrumentatio
 ## 🚀 Getting Started
 
 1. Open the project: `app/BiomedicalApp.prj`
-2. Launch the app: Run `BiomedicalApp.mlapp` in App Designer.
+2. Launch the app: Run `BiomedicalInstrumentationApp.mlapp` in App Designer.
 3. Explore helper functions in the `functions/` folder.
 
 ## 🧪 Example Features
