@@ -35,9 +35,11 @@ This material is designed for educators and researchers in biomedical engineerin
 
 ## 🙏 Acknowledgments
 
-Created and maintained by **Daniel Duque Urrego**, Ph.D. student at West Virginia University.  
-Contact:  daniel.duqueurrego@mail.wvu.edu
-          daniel.duqueu@gmail.com
+Created and maintained by **Daniel Duque Urrego**, Ph.D. student at West Virginia University.
+
+Contact Information:
+- daniel.duqueurrego@mail.wvu.edu
+- daniel.duqueu@gmail.com
 
 ---
 
