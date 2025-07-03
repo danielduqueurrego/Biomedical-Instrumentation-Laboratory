@@ -31,11 +31,25 @@ This material is designed for educators and researchers in biomedical engineerin
 - Modify or extend the designs for your own needs.
 - Contribute improvements via pull requests or issues.
 
+If you need to start with a brief **MATLAB introduction**, I recommend starting with the live scripts found in [`software/matlab/liveScripts`](software/matlab/liveScripts/)
+
+
+
 ---
+
+## 👨‍🏫 Software and Materials Needed
+- **Software:**
+  - <img src="images/Logos/MATLAB-Logo.png" alt="MATLAB Logo" width="30" height="24"/> [MATLAB 2025a or newer](https://www.mathworks.com/products/matlab.html)
+  - <img src="images/Logos/Arduino_IDE_logo.svg" alt="Arduino IDE Logo" width="25" height="25"/> [Arduino IDE](https://www.arduino.cc/en/software/)
+
+- **Materials:**
+  - Arduino UNO R4 WIFI
+ 
+--- 
 
 ## 🙏 Acknowledgments
 
-Created and maintained by **Daniel Duque Urrego**, Ph.D. student at West Virginia University.
+Created and maintained by **Daniel Duque Urrego**, Ph.D. student in Biomedical Engineering at West Virginia University.
 
 Contact Information:
 - daniel.duqueurrego@mail.wvu.edu
