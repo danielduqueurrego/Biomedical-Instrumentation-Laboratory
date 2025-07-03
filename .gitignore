@@ -1,0 +1,36 @@
+# Ignore backup and temp files
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Ignore compiled files and binary output
+*.exe
+*.out
+*.hex
+*.bin
+*.elf
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log and cache files
+*.log
+__pycache__/
+*.pyc
+*.class
+
+# Ignore build outputs (e.g., from KiCad or Arduino)
+build/
+*.dcm
+*.csv
+*.pdf
+*.zip
+
+# Ignore MATLAB generated files
+*.asv
+*.fig
+
+# Ignore generated documentation if applicable
+/docs/_build/
