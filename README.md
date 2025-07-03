@@ -37,7 +37,7 @@ If you need to start with a brief **MATLAB introduction**, I recommend starting 
 
 ---
 
-## 👨‍🏫 Software and Materials Needed
+## 🧰 Software and Materials Needed
 - **Software:**
   - <img src="images/Logos/MATLAB-Logo.png" alt="MATLAB Logo" width="30" height="24"/> [MATLAB 2025a or newer](https://www.mathworks.com/products/matlab.html)
   - <img src="images/Logos/Arduino_IDE_logo.svg" alt="Arduino IDE Logo" width="25" height="25"/> [Arduino IDE](https://www.arduino.cc/en/software/)
