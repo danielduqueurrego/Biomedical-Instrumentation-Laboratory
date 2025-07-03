@@ -8,9 +8,9 @@ Created for the course BMEG-420L: Biomedical Instrumentation Laboratory, Departm
 
 ## 📂 Repository Structure
 
-- `hardware/` – Circuit schematics, board designs, and hardware documents (licensed under CERN-OHL-W v2)
-- `software/` – MATLAB scripts, Arduino firmware, and data processing tools (licensed under MIT)
-- `docs/` – Lab manuals, educational guides, and documentation (licensed under CC BY 4.0)
+- `hardware/` – Circuit schematics, board designs, and hardware documents
+- `software/` – MATLAB scripts, Arduino firmware, and data processing tools
+- `docs/` – Lab manuals, educational guides, and documentation
 
 ---
 
