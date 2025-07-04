@@ -2,13 +2,15 @@
 
 This repository contains educational materials, hardware designs, and software tools to support open-source biomedical instrumentation labs for academic use.
 
+Created for the course BMEG-420L: Biomedical Instrumentation Laboratory, Department of Chemical and Biomedical Engineering, West Virginia University.
+
 ---
 
 ## 📂 Repository Structure
 
-- `hardware/` – Circuit schematics, board designs, and hardware documents (licensed under CERN-OHL-W v2)
-- `software/` – MATLAB scripts, Arduino firmware, and data processing tools (licensed under MIT)
-- `docs/` – Lab manuals, educational guides, and documentation (licensed under CC BY 4.0)
+- `hardware/` – Circuit schematics, board designs, and hardware documents
+- `software/` – MATLAB scripts, Arduino firmware, and data processing tools
+- `docs/` – Lab manuals, educational guides, and documentation
 
 ---
 
@@ -31,11 +33,27 @@ This material is designed for educators and researchers in biomedical engineerin
 - Modify or extend the designs for your own needs.
 - Contribute improvements via pull requests or issues.
 
+If you need to start with a brief **MATLAB introduction**, I recommend starting with the live scripts found in [`software/matlab/liveScripts`](software/matlab/liveScripts/)
+
+
+
 ---
+
+## 🧰 Software and Materials Needed
+- **Software:**
+  - <img src="images/Logos/MATLAB-Logo.png" alt="MATLAB Logo" width="30" height="24"/> [MATLAB 2025a or newer](https://www.mathworks.com/products/matlab.html)
+  - <img src="images/Logos/Arduino_IDE_logo.svg" alt="Arduino IDE Logo" width="25" height="25"/> [Arduino IDE](https://www.arduino.cc/en/software/)
+
+- **Materials:**
+  - Arduino UNO R4 WIFI
+ 
+--- 
 
 ## 🙏 Acknowledgments
 
-Created and maintained by **Daniel Duque Urrego**, Ph.D. student at West Virginia University.
+Created and maintained by **Daniel Duque Urrego**, Ph.D. student in Biomedical Engineering at West Virginia University.
+
+Originally funded by the Department of Chemical and Biomedical Engineering at West Virginia University.
 
 Contact Information:
 - daniel.duqueurrego@mail.wvu.edu
