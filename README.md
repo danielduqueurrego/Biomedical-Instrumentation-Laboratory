@@ -14,18 +14,6 @@ Created for the course BMEG-420L: Biomedical Instrumentation Laboratory, Departm
 
 ---
 
-## 🔐 Licenses
-
-| Folder     | Content                            | License                          |
-|------------|------------------------------------|----------------------------------|
-| hardware/  | PCB designs, schematics            | [CERN-OHL-W v2.0](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2) |
-| software/  | Arduino/MATLAB source code         | [MIT License](https://opensource.org/licenses/MIT) |
-| docs/      | Lab manuals, written guides        | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-
-Each folder contains its respective license file.
-
----
-
 ## 👨‍🏫 Usage
 
 This material is designed for educators and researchers in biomedical engineering. You're welcome to:
@@ -48,6 +36,18 @@ If you need to start with a brief **MATLAB introduction**, I recommend starting 
   - Arduino UNO R4 WIFI
  
 --- 
+
+## 🔐 Licenses
+
+| Folder     | Content                            | License                          |
+|------------|------------------------------------|----------------------------------|
+| hardware/  | PCB designs, schematics            | [CERN-OHL-W v2.0](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2) |
+| software/  | Arduino/MATLAB source code         | [MIT License](https://opensource.org/licenses/MIT) |
+| docs/      | Lab manuals, written guides        | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+
+Each folder contains its respective license file.
+
+---
 
 ## 🙏 Acknowledgments
 
